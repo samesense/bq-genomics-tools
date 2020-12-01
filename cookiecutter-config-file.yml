@@ -1,0 +1,10 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "bq-genomics-tools"
+  project_description: "Tools for BigQuery variant annotations"
+  organization: "samesense"
+  license: "MIT"
+  version: "0.1.0"
+  github_name: "samesense"
+  email: "evansj@email.chop.edu"
